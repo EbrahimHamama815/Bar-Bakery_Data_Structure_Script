@@ -64,4 +64,5 @@ all_dfs.reset_index(drop=True,inplace=True)
 
 
 # i don't think you will need an output if you are going to integrate the script with Power BI, I am not sure how it works, so, good luck.
+
 # all_dfs.to_csv("output.csv",index=False)
